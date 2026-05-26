@@ -19,7 +19,7 @@ The individual-level data are not included in this repository. See [Data Availab
 
 The notebooks are Jupyter notebooks written in Python. The following Python interpreter versions were used:
 
-| Notebook | Python version in notebook metadata |
+| Notebook | Python version |
 |---|---|
 | `Demographic_revision-bootstrap-100_1.ipynb` | Python 3.11.5 |
 | `Demographic_revision-MI.ipynb` | Python 3.11.5 |
