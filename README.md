@@ -113,10 +113,4 @@ This study uses data from the 2022 Preference Parameter Study, Japan Household P
 This code is released under the BSD 3-Clause License. See the `LICENSE`
 file for details.
 
-This code is made publicly available for academic transparency, peer review,
-and reproducibility of the analyses reported in the associated paper.
-
-You may view, download, and run the code for non-commercial academic research
-and reproduction of the results reported in the paper.
-
 The data used in this study are not included in this repository.
